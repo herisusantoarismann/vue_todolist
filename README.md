@@ -1,4 +1,12 @@
 # vue_todolist
+This todolist app is made with vue js + vue router.
+
+## Screenshot
+1. Home Page
+![home_page](screenshot/Home.png)
+
+2. Todo Page
+![todo_page](screenshot/Todo.png)
 
 ## Project setup
 ```
